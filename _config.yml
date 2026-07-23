@@ -1,0 +1,14 @@
+title: "Tanmoy Sen"
+name: "Tanmoy Sen"
+description: "Assistant Professor of Computer Science | Distributed and Machine Learning Systems"
+url: "https://tanmoy058.github.io"
+baseurl: ""
+repository: "Tanmoy058/Tanmoy058.github.io"
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - LICENSE
