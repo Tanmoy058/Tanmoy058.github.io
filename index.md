@@ -19,7 +19,7 @@ permalink: /
 <section class="content" markdown="1">
 # About Me
 
-<p class="lead">I am an incoming tenure-track Assistant Professor in the Department of Mathematics, Statistics and Computer Science at the University of Wisconsin–Stout.</p>
+<p class="lead">I am a tenure-track Assistant Professor in the Department of Mathematics, Statistics and Computer Science at the University of Wisconsin–Stout.</p>
 
 My research focuses on **distributed and machine learning systems**, **large language model inference and serving**, **edge computing**, and **performance optimization for real-time AI**. I earned my Ph.D. in Computer Science from the University of Virginia in December 2024, advised by Prof. Haiying Shen.
 
@@ -39,12 +39,11 @@ My work develops efficient, reliable, and resource-aware systems for machine lea
 
 ## Current Appointment
 
-**Incoming Tenure-Track Assistant Professor**  
+**Tenure-Track Assistant Professor**  
 Department of Mathematics, Statistics and Computer Science  
 University of Wisconsin–Stout · Fall 2026
 
 ## Recent Highlights
-
 - Two forthcoming 2026 papers on multi-resource-aware LLM serving and KV-cache management.
 - *Flex*, a heterogeneous-accelerator DNN inference system, appeared at EuroSys 2025.
 - Publications span EuroSys, SIGCOMM, ICDCS, ICPP, MASS, ICCCN, and related venues.
