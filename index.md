@@ -7,7 +7,7 @@ permalink: /
 <aside class="profile-card">
   <img class="avatar" src="{{ '/assets/images/tanmoy-sen.jpg' | relative_url }}" alt="Portrait of Tanmoy Sen">
   <h1>Tanmoy Sen</h1>
-  <p>Incoming Tenure-Track Assistant Professor</p>
+  <p>Tenure-Track Assistant Professor</p>
   <p>University of Wisconsin–Stout</p>
   <div class="links">
     <a href="mailto:sen.buet@gmail.com">Email</a>
