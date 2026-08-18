@@ -44,6 +44,7 @@ Department of Mathematics, Statistics and Computer Science
 University of Wisconsin–Stout · Fall 2026
 
 ## Recent Highlights
+- Our paper has been accepted to the Applied Research Track of ACM CIKM 2026.
 - Two forthcoming 2026 papers on multi-resource-aware LLM serving and KV-cache management.
 - *Flex*, a heterogeneous-accelerator DNN inference system, appeared at EuroSys 2025.
 - Publications span EuroSys, SIGCOMM, ICDCS, ICPP, MASS, ICCCN, and related venues.
