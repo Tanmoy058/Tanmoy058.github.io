@@ -11,7 +11,7 @@ A complete publication list is also available in my [CV]({{ '/files/Tanmoy_Sen_C
 
 ### 2026
 
-<div class="item"><div class="item-title">Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving</div><div class="meta">H. Shen, T. Sen, and M. Tanaka · Proceedings of the 55th International Conference on Parallel Processing (ICPP 2026) · To appear</div></div>
+<div class="item"><div class="item-title">Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving</div><div class="meta">H. Shen, T. Sen, and Y. He · Proceedings of the 55th International Conference on Parallel Processing (ICPP 2026) · To appear</div></div>
 
 <div class="item"><div class="item-title">Managing KV Cache for Coordinated Waiting and Execution Time in LLM Serving</div><div class="meta">H. Shen, T. Sen, and M. Tanaka · Proceedings of the 35th International Conference on Computer Communications and Networks (ICCCN 2026) · To appear</div></div>
 
