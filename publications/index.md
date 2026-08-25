@@ -10,6 +10,8 @@ A complete publication list is also available in my [CV]({{ '/files/Tanmoy_Sen_C
 ## Peer-Reviewed Conference Publications
 
 ### 2026
+<div class="item"><div class="item-title">Hard Rules, Soft Preferences: Bridging Reasoning, Learning, and
+Optimization for Personalized Packing Checklist Generation</div><div class="meta">H. Dev, M. Basak, T. Sen, P. Shome and Y. He · Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026) · To appear</div></div>
 
 <div class="item"><div class="item-title">Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving</div><div class="meta">H. Shen, T. Sen, and Y. He · Proceedings of the 55th International Conference on Parallel Processing (ICPP 2026) · To appear</div></div>
 
